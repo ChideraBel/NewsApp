@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="drawer_open">Navigation drawer open</string>
+    <string name="drawer_close">Navigation drawer closed</string>
+    <string name="do_a">Do A</string>
+    <string name="do_b">Do B</string>
+    <string name="do_c">Do C</string>
+    <string name="file_drawers_image">File drawers image</string>
+    <string name="this_is_a_label">This is a label</string>
+    <string name="this_is_a_sub_label">This is a sub-label</string>
+</resources>
